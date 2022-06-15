@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/contJorel/static/js/main.7af0626e.js",
+    "static/media/logo.webp": "/contJorel/static/media/logo.d6f36334ee09e4192647.webp",
+    "static/media/back.webp": "/contJorel/static/media/back.5713e339524101c10930.webp",
+    "static/media/back1.webp": "/contJorel/static/media/back1.46cc04f0596048cd2dde.webp",
+    "static/media/irmao.png": "/contJorel/static/media/irmao.1887251026ef15824118.png",
+    "static/media/Lara.webp": "/contJorel/static/media/Lara.b905e23633bf435f4805.webp",
+    "index.html": "/contJorel/index.html",
+    "main.7af0626e.js.map": "/contJorel/static/js/main.7af0626e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7af0626e.js"
+  ]
+}
